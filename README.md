@@ -35,7 +35,12 @@ Format: ![Alt Text](https://gss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=4095849592,30
 
 手提U3女包               3   58095289670质量不错的，背着很好看 有档次 很百搭 这价格很满意 会推荐给朋友的 哈哈哈
 包包收到了，是我喜欢的款式！手感舒适，容量足够了，极好极好，非常
-一二一r | S二和二
------------- | -------------
-电话费 1 | uukbgh 2
-发货单号 | Co皇太后
+任何URL（如http://www.github.com/）都将自动转换为可点击的链接。
+（http://www.baidu.com/）这是百度链接吗 是吗
+
+www.baidu.com哦我的百度  
+
+https://xn--4kq.ml小小艹哦
+用两个波浪线（如~~this~~）包裹的任何单词都会显示为划掉
+不是~~http~~
+而是https    ~~知道了吗~~
