@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+如果我们直接在从 index.html 页面写博客文章列表，然后链接到具体的博客文章页面，这样当然也不会影响到博客内容的访问。但是这样要写博客的效率太低了，每次新增博客不仅要写文章详情页，去修改主页的索引，这样就太麻烦了。但是，我们可以使用专门的工具来生成静态页面，每次写博客的时候就省事多了。
 
-You can use the [editor on GitHub](https://github.com/biacec/biacec.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+GitHub Pages 上面推荐使用的是 Jekyll ，本来打算直接使用 Jekyll 的，但是需要 Ruby 环境，而我的电脑上没有安装 Ruby ，所以就选择了 Hexo 。使用 Hexo 需要用到 Node.js ，正好电脑上之前有安装，所以就选择它了。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+使用HEXO搭建博客非常简单，首先安装的Node.js的的的的，然后输入以下命令即可 真实地址签，搜关键词，货比3家11152，收藏，简单假聊，手机下单，同步付款， 微信返佣（扣3货返），给你评语 没问题就开始任务。
+真实地址签，搜关键词，货比1家152，收藏，简单假聊，手机下单，同步付款， 微信返佣（扣3货返），给你评语 评价时晒2张图 没问题就开始任务。
+真实地址签，搜关键词，货比1家151，收藏，简单假聊，手机下单，同步付款， 微信返佣（扣3货返），给你评语 没问题就开始任务。
+真实地址签，货比1家151，不假聊，手机下单，同步付款， 微信返佣（扣2货返），给你评语 评价时晒两张张图，没问题就开始任务。 
+真实地址签，搜关键词，货比1家151，不假聊，手机下单，同步付款，给你评语  微信返佣（扣3货返）没问题就开始任务。 
+请核对信息 简单刷 151 假聊几句 真实地址 同步付款，微信返佣（扣3元货返）给你评语
+请核对信息 秒拍单 佣金4元 为了双方号安全请简单浏览主宝贝到底即可拍下 真实地址  同步付款 微信返佣 给你评语 及时收菜 没问题就开始任务
 
-### Markdown
+已返 备注  请及时收菜 谢谢  评价和图在这里：  百度搜索  www.baidu.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+注意：不刷进店款  刷另外一款双肩包 
+进店款搜索 miumiu女包    要刷的是这款  颜色选 超迷你
 
-```markdown
-Syntax highlighted code block
+户外旅行铆钉背包男女双肩包     颜色拍 小号香槟金
 
-# Header 1
-## Header 2
-### Header 3
+找到宝贝 简单浏览到底 拍下 同步 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/biacec/biacec.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2018单肩U1女包           1   581397539148
+链条U2女包               2   581143533484
+手提U3女包               3   580952896709
+        
+          物流挺快的，包包款式百搭，质量不错，超级喜欢哦！客服的态度很好哦。
+          做工精细，款式很漂亮，手感不错，很满意的一次购物
+        包包收到了，颜色很好看，款式也很漂亮，客服服务态度好，
+        超喜欢，包包做工非常细致。百搭不过时
+很好看，皮质很棒，手感很柔，款式大气，很百搭高端大气上档次。容量可以，逛街必备。很有范。
+质量不错的，背着很好看 有档次 很百搭 这价格很满意 会推荐给朋友的 哈哈哈
+包包收到了，是我喜欢的款式！手感舒适，容量足够了，极好极好，非常
