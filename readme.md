@@ -24,3 +24,15 @@ _This will also be italic_
 
 **This text will be bold**
 ![hgh你看看]（https://gss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=401228978,361900594&fm=173&app=49&f=JPEG?w=218&h=146&s=DF84AC447A0041550C3224990300C09B）
+> * 整理知识，学习笔记
+> * 发布日记，杂文，所见所想
+> * 撰写发布技术文稿（代码支持）
+> * 撰写发布学术论文（LaTeX 公式支持）
+
+![cmd-markdown-logo](https://content4.coedcherry.com/ftv-girls/203704/3.jpg)
+
+除了您现在看到的这个 Cmd Markdown 在线版本，您还可以前往以下网址下载：
+
+### [Windows/Mac/Linux 全平台客户端](https://content4.coedcherry.com/met-art/203595/w_8BC173D1D89D7084055FF6C5EBC0BE6C.jpg/)
+![cmd-markdown-logo](https://content4.coedcherry.com/met-art/203595/w_8BC173D1D89D7084055FF6C5EBC0BE6C.jpg)
+> 请保留此份 Cmd Markdown 的欢迎稿兼使用说明，如需撰写新稿件，点击顶部工具栏右侧的 <i class="icon-file"></i> **新文稿** 或者使用快捷键 `Ctrl+Alt+N`。
