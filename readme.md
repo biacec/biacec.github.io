@@ -9,9 +9,12 @@ Item 3a
 项目3b使用HEXO搭建博客非常简单，首先安装的Node.js的的的，然后输入以下命令即可GitHub Logo格式：Alt Text百度搜索www.baidu.com
 哲是图片
 更好的
+![hgh你看看]（https://gss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=401228978,361900594&fm=173&app=49&f=JPEG?w=218&h=146&s=DF84AC447A0041550C3224990300C09B）
 的生活费多少
-回覆          
-钛合金  
+回覆  
+[FGH开局](https://gss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=401228978,361900594&fm=173&app=49&f=JPEG?w=218&h=146&s=DF84AC447A0041550C3224990300C09B
+钛合金
+＃来吧来吧＃
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
@@ -32,3 +35,4 @@ I think you should use an
 **这个是什么**
 ＃来吧来吧＃
 1
+[hgh你看看]（https://gss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=401228978,361900594&fm=173&app=49&f=JPEG?w=218&h=146&s=DF84AC447A0041550C3224990300C09B）
