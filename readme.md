@@ -29,10 +29,9 @@ _This will also be italic_
 > * 撰写发布技术文稿（代码支持）
 > * 撰写发布学术论文（LaTeX 公式支持）
 
-![cmd-markdown-logo](https://content4.coedcherry.com/ftv-girls/203704/3.jpg)
+![cmd-markdown-logo](ht
 
 除了您现在看到的这个 Cmd Markdown 在线版本，您还可以前往以下网址下载：
 
-### [Windows/Mac/Linux 全平台客户端](https://content4.coedcherry.com/met-art/203595/w_8BC173D1D89D7084055FF6C5EBC0BE6C.jpg/)
-![cmd-markdown-logo](https://content4.coedcherry.com/met-art/203595/w_8BC173D1D89D7084055FF6C5EBC0BE6C.jpg)
+### [Windows/Mac/Linux 全平台客户端](hBE6C.jpg/)![cmd-markdown-logo](https://.coedcherry.com/met-art/203595/
 > 请保留此份 Cmd Markdown 的欢迎稿兼使用说明，如需撰写新稿件，点击顶部工具栏右侧的 <i class="icon-file"></i> **新文稿** 或者使用快捷键 `Ctrl+Alt+N`。
