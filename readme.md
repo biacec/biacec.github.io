@@ -7,6 +7,7 @@
 
   gtag('config', 'UA-128679952-1');
 </script>
+
 **ykcl（要看草榴）**
 
 ------
@@ -47,7 +48,9 @@
 影片类型：动作片
 影片地区：大陆
 ![](http://himg2.huanqiu.com/attachment2010/2018/1016/15/14/20181016031416486.jpg)
+
 [**狄仁杰之蚩尤血藤在线地址1**](http://sohu.com-v-sohu.com/share/40882bebd317419cfcea3adc3dcfae6c)
+
 [**狄仁杰之蚩尤血藤在线地址2**](http://sina.jingpinxiazai.com/share/EJ9jWY3x5Bp7cpwi)
 
 
@@ -58,8 +61,9 @@
 影片类型：动作片
 影片地区：香港
 ![](http://5b0988e595225.cdn.sohucs.com/images/20180719/850f6f284cae4a15b2780f335a6a8ff1.jpeg)
+
 [**黄金兄弟在线地址2**](http://vs1.baduziyuan.com/share/kmeCW5EKggNuv7MH)
+
 [**黄金兄弟在线地址2**](http://acfun.iqiyi-kuyun.com/share/9HWCoDOiez7kCbAt)
 
-
-**最近更新日期    2018/11/06**
+**最近更新日期:2018/11/06
