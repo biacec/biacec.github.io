@@ -39,6 +39,5 @@
 
 > ![是地址1](http://ww3.sinaimg.cn/mw690/e75a115bgw1ebtc7xarwog20b4072npe.gif)
 
-![dizwer](http://p1.pstatp.com/large/2f40000f7c393f463b2)
 
 ![](http://ww2.sinaimg.cn/mw690/e75a115bjw1f288mtdc63g20fk06mb2c.gif)
